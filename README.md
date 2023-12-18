@@ -20,5 +20,10 @@ Here are some ideas to get you started:
 <div id="img" align=center>
   
 [![Bilibili](https://img.shields.io/badge/Bilibili-Rosykunai-green)](https://space.bilibili.com/445420900?spm_id_from=333.1365.0.0)
+[![School](https://img.shields.io/badge/School-USTC-blue)](https://www.ustc.edu.cn/) 
 
+![](https://img.shields.io/badge/Major-GenAI-yellow)
+![](https://img.shields.io/badge/Major-RecSys-green)
+[![Hobby](https://img.shields.io/badge/Hobby-LOL-purple)](https://lol.qq.com/main.shtml)
+[![Passion](https://img.shields.io/badge/Passionfor-Valorant-red)](https://playvalorant.com/)
 </div>
