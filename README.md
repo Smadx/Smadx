@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 [![Hobby](https://img.shields.io/badge/Hobby-LOL-purple)](https://lol.qq.com/main.shtml)
 [![Passion](https://img.shields.io/badge/Passionfor-Valorant-red)](https://playvalorant.com/)
 </div>
+
+![](Github头像.jpg)
