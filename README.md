@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smadx&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smadx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Rosykunai-green)](https://space.bilibili.com/445420900?spm_id_from=333.1365.0.0)
