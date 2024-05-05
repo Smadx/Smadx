@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Major-GenAI-yellow)
 ![](https://img.shields.io/badge/Major-RecSys-green)
-[![Hobby](https://img.shields.io/badge/Hobby-LOL-purple)](https://lol.qq.com/main.shtml)
 [![Passion](https://img.shields.io/badge/Passionfor-Valorant-red)](https://playvalorant.com/)
 </div>
