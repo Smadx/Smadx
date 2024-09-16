@@ -1,4 +1,4 @@
-### Hi I'm Smadx 👋 ,a data science student major in generative AI and recommendation systems
+### Hi I'm Smadx 👋 ,a data science student major in vision generation  models and embody AI.
 
 <!--
 **Smadx/Smadx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
