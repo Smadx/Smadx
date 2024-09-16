@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Major-CV-yellow)
 ![](https://img.shields.io/badge/Major-EmbodyAI-green)
-[![Passion](https://img.shields.io/badge/Passionfor-Valorant-red)](https://playvalorant.com/)
 </div>
